@@ -1,1 +1,2 @@
 # IdenticonGenerator
+Simple Identicon generator.
